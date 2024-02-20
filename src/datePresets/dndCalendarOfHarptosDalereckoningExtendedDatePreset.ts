@@ -5,7 +5,7 @@ import {
 
 import type { DateFormatCreationFunction } from "~/types";
 
-export const dndCalendarOfHarptosDalereckoningDatePreset: DateFormatCreationFunction =
+export const dndCalendarOfHarptosDalereckoningExtendedDatePreset: DateFormatCreationFunction =
 	() => ({
 		name: "dnd-calendar-of-harptos-dalereckoning-extended",
 		icon: "compass",
