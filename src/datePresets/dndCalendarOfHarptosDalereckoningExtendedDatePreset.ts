@@ -7,7 +7,7 @@ import type { DateFormatCreationFunction } from "~/types";
 
 export const dndCalendarOfHarptosDalereckoningDatePreset: DateFormatCreationFunction =
 	() => ({
-		name: "dnd-calendar-of-harptos-dalereckoning",
+		name: "dnd-calendar-of-harptos-dalereckoning-extended",
 		icon: "compass",
 		settings: {
 			dateDisplayFormat: "{day} {month} {year}D.R. {hour}:{minute}",
